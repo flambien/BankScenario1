@@ -1,0 +1,16 @@
+{
+    "records": [{
+        "name": "TIBCO Cloud",
+        "items": [{
+            "localTimestamp": 1485421997000,
+            "localURI": "/BankScenario1/Service Descriptors/BankScenario1_1.0.json",
+            "disabled": false,
+            "remoteTimestamp": 1485439642000,
+            "localHash": "55e33a6b848b00ca9484ac44d24ff3c89bb36211",
+            "remoteId": "38",
+            "remoteHash": "55e33a6b848b00ca9484ac44d24ff3c89bb36211"
+        }],
+        "url": "https://integration.cloud.tibco.com:443"
+    }],
+    "resources": []
+}
